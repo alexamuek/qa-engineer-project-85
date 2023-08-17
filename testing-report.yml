@@ -12,14 +12,6 @@
   status: pass
 
 - summary: |
-    Регистрация через Github
-  status: pass
-
-- summary: |
-    Регистрация через Discord
-  status: pass
-
-- summary: |
     Авторизация при помощи учетной записи Github
   status: pass
 
